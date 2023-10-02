@@ -181,6 +181,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Sure, I see you want to link directly to the API documentation sections in your README.md file. To achieve this, you can use anchor links. Here's how you can structure your README.md file with direct links to the API documentation sections:
 
 
+### Video Link 
+https://www.loom.com/share/e392a5ec7e9645668b7803c42b0748b1?sid=1d70b7a2-455f-4836-baad-c8881feb7b72
+
 
 
 
