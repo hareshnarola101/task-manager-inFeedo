@@ -1,6 +1,5 @@
-Creating a comprehensive README.md file is essential for documenting your project and making it accessible to others. Here's a template for your README.md file with sections covering project overview, setup instructions, API documentation, and more:
 
-```markdown
+
 # Task Management System
 
 ## Project Overview
@@ -33,7 +32,7 @@ The Task Management System is a Node.js-based web application that allows users 
 
 ### Installation
 
-```
+
 
 1. Clone the repository:
 ```bash
@@ -157,7 +156,7 @@ The Task Management System is a Node.js-based web application that allows users 
     }
   ]
   ```
-  
+
 
 ## Running the Project
 
