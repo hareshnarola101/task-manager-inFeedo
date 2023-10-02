@@ -1,7 +1,7 @@
 {
     "development": {
-      "username": "<your_mysql_username>",
-      "password": "<your_mysql_password>",
+      "username": "root",
+      "password": "12345678",
       "database": "task_manager",
       "host": "localhost",
       "dialect": "mysql"
